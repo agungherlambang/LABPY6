@@ -27,7 +27,16 @@ Data siswa disimpan dalam daftar bernama data_list, yang berisi elemen kamus. Se
     'UAS': 85.0,    # Nilai UAS
     'Nilai Akhir': 81.5  # Hasil perhitungan nilai akhir
 }
+````
+### 2. Fungsi-Fungsi Utama
+### oi_final_grade(tugas, uts, uas)
 
+Fungsi ini menghitung nilai akhir siswa berdasarkan bobot masing-masing:
+* Tugas: 30%
+* UTS: 35%
+* UAS: 35%.
 
-
+```pyhton
+def oi_final_grade(tugas, uts, uas):
+    return (tugas * 0.30) + (uts * 0.35) + (uas * 0.35)
 
