@@ -1,1 +1,15 @@
 # LABPY6
+# NAMA: AGUNG HERLAMBANG
+# NIM: 312410296
+# KELAS: TI.24.A4
+## Program Pengelolaan Data Mahasiswa
+![gambar](https://github.com/user-attachments/assets/442240d4-2793-4d3d-9a40-f1cf0b8a9fda)
+
+# penjelasan programm
+## Perhitungan Nilai Akhir
+Nilai akhir pelajar dihitung berdasarkan bobot sebagai berikut:
+* Tugas: 30%
+* UTS: 35%
+* UAS: 35%.
+
+
