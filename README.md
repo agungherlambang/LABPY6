@@ -155,4 +155,20 @@ while True:
 ## screenshout VSC
 ![gambar](https://github.com/user-attachments/assets/1d59a3ee-0e69-4dc2-a070-c4effd3af0fe)
 
+## Contoh output
+Berikut adalah contoh tampilan tabel data:
+
+# DAFTAR NILAI
+Daftar Nilai
+======================================================================
+| NO | NIM      | NAMA       | TUGAS   | UTS     | UAS     | AKHIR   |
+======================================================================
+| 1  | 1224     | AGUNG      | 90.00    | 90.00    | 80.00    | 88.25    |
+| 2  | 5697     | ADAMA      | 80.00    | 80.00    | 98.00    | 85.95    |
+| 3  | 9123     | AGUS       | 85.00    | 98.00    | 75.00    | 82.80    |
+======================================================================
+
+## screenshout output VSC
+![GAMBAR](https://github.com/user-attachments/assets/4e3dee63-9c98-4f0e-ab1f-55f06de77877)
+
 
