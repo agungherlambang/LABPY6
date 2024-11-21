@@ -171,4 +171,8 @@ Daftar Nilai
 ## screenshout output VSC
 ![GAMBAR](https://github.com/user-attachments/assets/4e3dee63-9c98-4f0e-ab1f-55f06de77877)
 
+# BERIKUT DI BAWAH INI ADALAH FLOWCHART NYA :
+![image](https://github.com/user-attachments/assets/49b1e0f3-f072-44cb-8e04-05f71026b610)
+
+
 
